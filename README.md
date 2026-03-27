@@ -2,6 +2,7 @@
 
 *Online:*
 Use a PNG with a good resolution for SoMe posts. A PNG can be generating by exporting from the SVG in e.g. Inkscape.
+Be sure to check the PDF after exporting - you might need to select the option 'convert text to paths' to get a working PDF.
 - [Opslagstavlen DTU](https://www.facebook.com/opslagstavlendtu/followers). Only posts by admins ([PF](https://www.pf.dk/studieliv/sekretariat/reklamer-til-studerende)), contact them for posting. 
 - [DTU Students](https://www.facebook.com/groups/studentsdtu). We can post directly here, but be sure to look at group rules first.
 
