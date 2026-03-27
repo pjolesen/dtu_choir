@@ -1,7 +1,7 @@
 **Posting options**
 
 *Online:*
-Use a PNG with a good resolution for SoMe posts. A PNG can be generating by exporting from the SVG in e.g. Inkscape.
+Use a PNG with a good resolution for SoMe posts. A PNG can be generating by exporting from the SVG in e.g. [Inkscape](https://inkscape.org/) (Free and Open Source, yay!).
 - [Opslagstavlen DTU](https://www.facebook.com/opslagstavlendtu/followers). Only posts by admins ([PF](https://www.pf.dk/studieliv/sekretariat/reklamer-til-studerende)), contact them for posting. 
 - [DTU Students](https://www.facebook.com/groups/studentsdtu). We can post directly here, but be sure to look at group rules first.
 - Others?
