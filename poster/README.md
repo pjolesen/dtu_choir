@@ -12,4 +12,4 @@ Be sure to check the PDF after exporting - you might need to select the option '
 - [PF notice boards](https://www.pf.dk/studieliv/sekretariat/reklamer-til-studerende) are administered by PF. The maximum posting duration is one month, and the removal date must be stated on the poster (cf. guidelines above). The removal date can be shown/hidden in Inkscape by clicking the eye icon in the Layers and Objects browser.
 - PF offers a service where they post and remove posters for a fee. We may also put up the posters ourselves, in which case we will also be responsible for removing them. It is therefore important to note where posters have been put up!
 
-*Flyers:* The current design hasn't been tested in A5 papaer format, but otherwise we can use A4. Use these at events etc.
+*Flyers:* The current design hasn't been tested in A5 paper format, but otherwise we can use A4. Use these at events etc.
